@@ -2,3 +2,5 @@ nihaoha is
 zhelishi 
 zuiniupi de 
 zaixiugai
+
+Git tracks changes.
